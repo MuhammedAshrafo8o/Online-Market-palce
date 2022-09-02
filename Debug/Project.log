@@ -1,0 +1,20 @@
+﻿  Customer.cpp
+D:\Second year\Second Semester\DS\Project\Project\Customer.cpp(45,23): warning C4018: '<': signed/unsigned mismatch
+D:\Second year\Second Semester\DS\Project\Project\Customer.cpp(71,27): warning C4018: '<': signed/unsigned mismatch
+D:\Second year\Second Semester\DS\Project\Project\Customer.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+D:\Second year\Second Semester\DS\Project\Project\Customer.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+  Product.cpp
+  Seller.cpp
+D:\Second year\Second Semester\DS\Project\Project\Seller.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Second year\Second Semester\DS\Project\Project\Seller.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Second year\Second Semester\DS\Project\Project\Seller.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+D:\Second year\Second Semester\DS\Project\Project\Seller.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Second year\Second Semester\DS\Project\Project\Seller.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\Second year\Second Semester\DS\Project\Project\Source.cpp(128,23): warning C4018: '<': signed/unsigned mismatch
+  receipt.cpp
+D:\Second year\Second Semester\DS\Project\Project\receipt.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+D:\Second year\Second Semester\DS\Project\Project\receipt.cpp(37,20): warning C4018: '<': signed/unsigned mismatch
+D:\Second year\Second Semester\DS\Project\Project\receipt.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project.vcxproj -> D:\Second year\Second Semester\DS\Project\Project\Debug\Project.exe
